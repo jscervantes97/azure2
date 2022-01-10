@@ -1,0 +1,3 @@
+C:\Users\Rodolfo\source\repos\IniciativasSocialesApi\obj\Debug\IniciativasSocialesApi.njsproj.AssemblyReference.cache
+C:\Users\Rodolfo\source\repos\IniciativasSocialesApi\obj\Debug\IniciativasSocialesApi.njsproj.CoreCompileInputs.cache
+C:\Users\Rodolfo\source\repos\IniciativasSocialesApi\bin\Microsoft.NodejsTools.WebRole.dll
